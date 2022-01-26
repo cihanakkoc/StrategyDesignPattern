@@ -1,6 +1,6 @@
 using System;
 
-namespace IdentityProject.Models
+namespace StrategyDesignPattern.Models
 {
     public class ErrorViewModel
     {
